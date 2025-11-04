@@ -57,7 +57,7 @@ I build **scalable, high-performance full-stack applications** with clean code a
 - 💬 I love building elegant, performant web & mobile apps.  
 - 🧠 Always exploring new frameworks and clean architecture patterns.  
 - ☕ Coffee + Code = Productivity unlocked.  
-- 🌍 Currently focused on scaling full-stack apps with Next.js, Firebase, and Spring Boot.
+- 🌍 Currently focused on scaling full-stack apps with Next.js, Tailwind CSS, and Node.js.
 
 ---
 
