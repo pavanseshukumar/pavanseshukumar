@@ -47,7 +47,6 @@ I build **scalable, high-performance full-stack applications** with clean code a
 
 ### 📊 GitHub Stats
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanseshukumar&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanseshukumar&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanseshukumar&theme=radical)
 
