@@ -48,7 +48,6 @@ I build **scalable, high-performance full-stack applications** with clean code a
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanseshukumar&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanseshukumar&theme=radical)
 
 ---
 
